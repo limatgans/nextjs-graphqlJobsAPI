@@ -1,0 +1,32 @@
+{
+  "name": "nextjs-graphqljobsapi",
+  "description": "A simple NEXTJs frontend page for GraphQL Jobs API (https://graphql.jobs/docs/api/) - Assignment for Jobbatical",
+  "version": "0.1.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limatgans/nextjs-graphqlJobsAPI.git"
+  },
+  "keywords": [
+    "NEXTJS",
+    "GraphQL",
+    "Jobs",
+    "API"
+  ],
+  "author": "limatgans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limatgans/nextjs-graphqlJobsAPI/issues"
+  },
+  "homepage": "https://github.com/limatgans/nextjs-graphqlJobsAPI#readme",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
